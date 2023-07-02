@@ -1,1 +1,1 @@
-This repo is for the challenger of ALX
+This repo is for the challenges of ALX
